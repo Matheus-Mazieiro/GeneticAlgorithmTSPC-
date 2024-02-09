@@ -1,0 +1,6 @@
+C:\Users\mathe\Desktop\Pastas\UFSCar\Perfil 4\ES\Teste Unitário\TesteUnitario\bin\Debug\TesteUnitario.dll
+C:\Users\mathe\Desktop\Pastas\UFSCar\Perfil 4\ES\Teste Unitário\TesteUnitario\bin\Debug\TesteUnitario.pdb
+C:\Users\mathe\Desktop\Pastas\UFSCar\Perfil 4\ES\Teste Unitário\TesteUnitario\obj\Debug\ToDoList.csprojAssemblyReference.cache
+C:\Users\mathe\Desktop\Pastas\UFSCar\Perfil 4\ES\Teste Unitário\TesteUnitario\obj\Debug\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\Pastas\UFSCar\Perfil 4\ES\Teste Unitário\TesteUnitario\obj\Debug\TesteUnitario.dll
+C:\Users\mathe\Desktop\Pastas\UFSCar\Perfil 4\ES\Teste Unitário\TesteUnitario\obj\Debug\TesteUnitario.pdb
